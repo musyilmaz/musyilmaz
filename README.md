@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @musyilmaz
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently learning rustlang and working on my way on advanced stairs of Golang
 - 💞️ I’m looking to collaborate on open source projects regarding JS/TS, go
 - 📫 How to reach me musyilmaz.dev@gmail.com
